@@ -3,7 +3,7 @@
 An interactive 2D web platform for teaching Finite Element Method (FEM) structural simulations.
 
 ## 🔗 Links
-- 🌐 **Live App:** [Open FEM Visualizer](fem-visualizer--sajedasago2001.replit.app)
+- 🌐 **Live App:** [Open FEM Visualizer](https://fem-visualizer--sajedasago2001.replit.app/)
 - 🏆 **Kanz AI Hackathon Portfolio:** [View on Kanz](https://try.ka.nz/ai/hibaqattoush)
 
 ## ✨ Features
